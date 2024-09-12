@@ -1,1 +1,1 @@
-# alx_be_shell
+a script that changes ccurrent user to betty
